@@ -1,0 +1,2 @@
+# STUDENT-RECORD-MANAGEMENT-SYSTEM-
+STUDENT RECORD MANAGEMENT SYTSTEM is a console based program that can perform simple CRUD operation, Our system aims to record student information easily and efficiently through a straightforward menu-driven interface.  The system stores and manages key student details such as Student ID, Name, Course, Year Level, and GPA. 
